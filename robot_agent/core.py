@@ -5,7 +5,6 @@ import socket
 import subprocess
 from pathlib import Path
 from typing import Optional
-
 from robot_agent.robot_client import RobotClient
 from robot_agent.config import DEFAULT_PORT_NAME, DEFAULT_ROBOT_ID, RECORDINGS_DIR
 
